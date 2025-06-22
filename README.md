@@ -1,6 +1,6 @@
 # PumpSwapMarketCap
 
-A Python module for discovering the highest-liquidity WSOL trading pool for any Solana token, parsing on-chain AMM data, and computing token price & market cap in SOL and USD.
+A Python module for discovering the highest-liquidity trading pool, parsing on-chain AMM data, and computing token price & market cap in SOL and USD for a Pump.Swap AMM Pool.
 
 ## Features
 
